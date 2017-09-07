@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Written by Senthuran Sivanthan to install sequence of tools on jenkins server
 update_system()
 {
     sudo apt-get update
